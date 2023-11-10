@@ -13,4 +13,5 @@ $("#addTodo").click(function () {
       $(this).parent().css("text-decoration", "none");
       $(this).parent().css("color", "#000");
     }
-  });
+  
+});
